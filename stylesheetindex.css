@@ -1,0 +1,48 @@
+body { background-image: url("background.jpg");  background-size:cover;   margin: auto; overflow: hidden;}
+
+* { font-family: sans-serif; }
+
+nav { background-color: rgb(37, 224, 37); padding: 12px; margin:20px;  border-radius: 1px;}
+
+input { margin:auto; }
+
+label { color: white; }
+
+main { margin: auto; }
+
+div { padding-left: 30px; padding-right: 30px; padding-bottom: 50px;}
+
+label { font-size: 25px; }
+
+span { display: table; margin: 0 auto;}
+
+/* Identificatori */
+
+#container { margin: auto;  margin-top: 25px; background-color: rgba(0, 0, 0, 0.6); width: 1200px; border-radius: 10px; padding: 55px;}
+
+#header { margin: auto; }
+
+#h1 { color: rgb(37, 224, 37); text-align: center; font-size:30px; }
+
+#logo { display: block; margin-left: auto; margin-right: auto;}
+
+#carica1 { height:30px;  margin-left: 0%;  border-radius: 5px;  border:0px; color:rgb(255, 196, 0); background-color: rgb(255, 196, 0); width: 380px;  }
+
+#carica2 { height:30px;  margin-left: 0%;  border-radius: 5px;  border:0px; color:green; background-color: green; width: 600px; }
+
+#carica3 { height:30px;  margin-left: 0%;  border-radius: 5px;  border:0px; color:brown; background-color: brown; width: 180px;  }
+
+#button1 { margin-right: 5px;}
+
+#button2 { margin-right: 5px;}
+
+/* Classi */
+
+.via { color: white; margin-bottom: 0px; margin-top: 1px; font-size:large }
+
+.carica { color:white; margin-top: 0px; margin-bottom: 0px; }
+
+
+
+
+
